@@ -1,5 +1,5 @@
 ---
-title: "Make Cheating Expensive: Bitcoin inside a nuclear non-proliferation stack"
+title: "Make Cheating Expensive: Bitcoin Inside a Nuclear Non-Proliferation Stack"
 description: "A concrete, buildable design for nuclear non-proliferation that uses Bitcoin: immutable time, auditable custody, and skin-in-the-game incentives."
 pubDate: 2025-09-16
 tags: ["bitcoin", "security", "nonproliferation", "verification", "zero-knowledge", "lightning", "dlc", "taproot"]
